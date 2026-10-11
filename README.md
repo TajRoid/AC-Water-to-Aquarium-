@@ -107,12 +107,6 @@ ac-water-to-aquarium/
 - Clean the AC unit and drain pipe regularly.
 - For beginners, mixing AC water with mature aquarium water (50:50 ratio) is a more practical approach.
 
-## 🚀 Roadmap
-
-- [ ] Add an automatic filtration system
-- [ ] Integrate TDS/pH sensors for real-time monitoring
-- [ ] Document before/after photos
-- [ ] Test on several different fish species
 
 ## 📄 License
 
