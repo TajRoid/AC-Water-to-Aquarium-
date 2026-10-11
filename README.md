@@ -1,4 +1,4 @@
-# 💧 AC Water to Aquarium (SPARK Project)
+# 💧 AC Water to Aquarium
 
 Reclaim pure AC condensate water into safe, mineral-balanced aquarium water for fish and aquatic plants using an automated ESP32 monitoring and dosing system.
 
