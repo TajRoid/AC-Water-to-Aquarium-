@@ -2,7 +2,9 @@
 
 Reclaim pure AC condensate water into safe, mineral-balanced aquarium water for fish and aquatic plants using an automated ESP32 monitoring and dosing system.
 
-![Status](https://img.shields.io/badge/status-Finished-gold)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![Date](https://img.shields.io/badge/date-October%202026-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 ![Category](https://img.shields.io/badge/category-Embedded%20Systems%20%2F%20Aquaculture-green)
 
 ---
